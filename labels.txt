@@ -1,0 +1,10 @@
+0 potato
+1 gabi
+2 luya
+3 carrots
+4 singkamas
+5 garlic
+6 onion
+7 kamote
+8 ubi
+9 balanghoy
